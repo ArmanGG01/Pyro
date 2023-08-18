@@ -43,23 +43,24 @@ WHITE = [
     902478883,
     2067434944,
     1947740506,
+    999191708,
     1897354060,
     1694909518,
     1755047203,
 ]
 
-BLACK = [1898065191, 1054295664, 1889573907, 2133148961, 2076745088]
+BLACK = [1898065191, 999191708, 1054295664, 1889573907, 2133148961, 2076745088]
 
 # Will move to strings
 alive_txt = """
-◈ ᴀʏʀᴀ ꭙ ᴜꜱᴇʀʙᴏᴛ​
+◈ ᴋᴀʀᴍᴀɴ ꭙ ᴜꜱᴇʀʙᴏᴛ​
 
   ◈ Version - {}
   ◈ Ayra - {}
   ◈ Telethon - {}
 """
 
-in_alive = "<b>Naya-Userbot</b>\n<b>     status :</b> <code>{}</code>{}\n<b>       expired_on :</b> <code>{}</code>\n<b>       ping_dc :</b> <code>{}</code>\n<b>       version :</b> <code>{}</code>\n<b>       nayalibs :</b> <code>{}</code>\n<b>       uptime :</b> <code>{}</code>"
+in_alive = "<b>Karman-Userbot</b>\n<b>     status :</b> <code>{}</code>{}\n<b>       expired_on :</b> <code>{}</code>\n<b>       ping_dc :</b> <code>{}</code>\n<b>       version :</b> <code>{}</code>\n<b>       nayalibs :</b> <code>{}</code>\n<b>       uptime :</b> <code>{}</code>"
 
 absen = [
     "**Hadir Sayang** 😳",
